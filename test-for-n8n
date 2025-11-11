@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>テスト用ニュース</title>
+</head>
+<body>
+    <h1>最新ニュース</h1>
+    <div id="news-list">
+        <div class="news-item">
+            <a href="/news/article-3">2025年11月11日のニュース</a>
+        </div>
+        <div class="news-item">
+            <a href="/news/article-2">2025年11月10日のニュース</a>
+        </div>
+        <div class="news-item">
+            <a href="/news/article-1">2025年11月9日のニュース</a>
+        </div>
+    </div>
+
+    <footer>
+        <p>フッター情報（ここは変更されても通知不要）</p>
+    </footer>
+</body>
+</html>
